@@ -1,0 +1,19 @@
+h1{
+    color:brown
+    
+    }
+    /**{
+        border:dotted;
+    }
+    */
+    .header{
+        background-color:aqua;
+        display:flex;
+        justify-content:space-evenly
+    }
+.grid{
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:space-evenly;
+}
+    
